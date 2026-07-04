@@ -1,6 +1,7 @@
 #include <iostream>
 #include "vector.h"
-
+// this is just for testing vector
+// vector implementation is in vector.h
 int main(){
     // vector<std::string> vec(5,"abc");
     // // vec[15] = "jab";
