@@ -1,6 +1,7 @@
 <div align = "center">
 
-# tiny_stl
-## My own version of C++ STL
-![STL Under Construction](https://img.shields.io/badge/STL%20Under%20Construction-blue)
+# my_vector
+## My own version of C++ vector
+- Vector is implemented in vector.h.
+- main.cpp is to test vector.
 </div>
